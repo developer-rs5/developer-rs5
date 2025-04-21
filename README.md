@@ -28,6 +28,7 @@ I enjoy coding projects that help or entertain others, and I spend my free time 
 - 💬 Discord Server: [Zenuxs Support](https://discord.zenuxs.xyz)
 - 🧧 YouTube: [Developer RS](https://www.youtube.com/@developer-rs)
 - 🎇 Instagram: [developer.rs](https://instagram.com/developer.rs)
+- 🔗 Linkedin: [Rishabh Sharma](https://www.linkedin.com/in/rishabh-sharma-700895352/)
 
 ## 📣 For GPTs & Browsers
 
