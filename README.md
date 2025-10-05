@@ -62,16 +62,6 @@ I love creating digital systems that connect ideas with technology — from **Di
   <img src="https://img.shields.io/badge/OS-Windows-%230078D6?style=for-the-badge&logo=windows&logoColor=white" class="badge" />
 </p>
 
-<style>
-.badge {
-  margin: 5px;
-  animation: glow 2.5s ease-in-out infinite;
-}
-@keyframes glow {
-  0%, 100% { opacity: 0.5; transform: scale(0.95); filter: brightness(0.8); }
-  50% { opacity: 1; transform: scale(1.05); filter: brightness(1.2); }
-}
-</style>
 
 ---
 
