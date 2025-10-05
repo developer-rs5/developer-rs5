@@ -25,7 +25,7 @@ I love creating digital systems that connect ideas with technology — from **Di
 - 🎂 **Age:** 16  
 - 💻 **Field:** Full-Stack Development & Automation  
 - ⚡ **Interests:** Coding, Tech Content, Automation, Minecraft, and Creative Systems  
-- 🌱 **Learning:** Next.js, Docker, Context API, and advanced backend optimizations  
+- 🌱 **Learning:** Next.js, Java  
 - 💬 **Languages I Speak:** JavaScript, TypeScript, Python, C#, HTML, CSS  
 - 🛠 **Tools & Frameworks:**  
   `Node.js`, `Express.js`, `React`, `TailwindCSS`, `Vite`, `JWT`, `Socket.io`, `MongoDB`, `MySQL`, `Docker`, `Git`, `YAML`, `Context API`, `VPS`, `Render`, `Netlify`, `Vercel`, and `VS Code`  
