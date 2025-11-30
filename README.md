@@ -92,10 +92,9 @@ I love creating digital systems that connect ideas with technology — from **Di
 
 ## 🌐 Contact & Links  
 
-- 🧭 Portfolio: [developer-rs.zenuxshost.fun](https://developer-rs.zenuxshost.fun)  
-- 📧 Email: [rs@zenuxs.xyz](mailto:rs@zenuxs.xyz)  
-- 💬 Discord: [rs.zenuxs.xyz](https://rs.zenuxs.xyz)  
-- 💬 Discord Server: [Zenuxs Support](https://discord.zenuxs.xyz)  
+- 🧭 Portfolio: [rishabh.zenuxshost.fun](https://rishabh.zenuxshost.rs)  
+- 📧 Email: [rs@zenuxs.in](mailto:rs@zenuxs.in)  
+- 💬 Discord Server: [Zenuxs Support](https://discord.zenuxs.in)  
 - 🎥 YouTube: [Developer RS](https://www.youtube.com/@developer-rs)  
 - 📸 Instagram: [developer.rs](https://instagram.com/developer.rs)  
 - 💼 LinkedIn: [Rishabh Sharma](https://www.linkedin.com/in/rishabh-sharma-700895352/)  
